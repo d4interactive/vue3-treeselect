@@ -1268,7 +1268,7 @@ const An = se({
   inject: ["instance"],
   render(e) {
     const { instance: t } = e;
-    if (!t.name || t.disabled || !t.hasValue)
+    if (!t || !t.name || t.disabled || !t.hasValue)
       return null;
     let n = t.internalValue.map(Rn);
     return t.multiple && t.joinValues && (n = [
