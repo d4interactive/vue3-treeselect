@@ -9,12 +9,12 @@
   "files": [
     "dist"
   ],
-  "main": "./dist/infineon-vue-datatable.umd.cjs",
-  "module": "./dist/infineon-vue-datatable.js",
+  "main": "./dist/vue-treeselect.umd.cjs",
+  "module": "./dist/vue-treeselect.js",
   "exports": {
     ".": {
-      "import": "./dist/infineon-vue-datatable.js",
-      "require": "./dist/infineon-vue-datatable.umd.cjs"
+      "import": "./dist/vue-treeselect.js",
+      "require": "./dist/vue-treeselect.umd.cjs"
     },
     "./dist/style.css": {
       "import": "./dist/style.css",
