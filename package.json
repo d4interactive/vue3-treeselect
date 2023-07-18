@@ -45,14 +45,14 @@
     "fuzzysearch": "^1.0.3",
     "is-promise": "^4.0.0",
     "material-colors": "^1.2.6",
-    "vue": "^3.2.39",
+    "vue": "^3.2.47",
     "vue-multiselect": "^3.0.0-alpha.2",
     "vue-router": "^4.1.5",
     "watch-size": "^2.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.1.0",
-    "@vue/compiler-sfc": "^3.2.39",
+    "@vue/compiler-sfc": "^3.2.47",
     "auto": "^10.37.4",
     "eslint": "^7.28.0",
     "eslint-config-airbnb-base": "^14.2.1",
